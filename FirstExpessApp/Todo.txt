@@ -1,0 +1,6 @@
+Create a fresh Express.Js App follow the following procedure
+
+Step 1: First To create Package.json file enter the following command.
+    cmd: npm init --y
+Step 2: To install a fresh Express.Js application enter the following command.
+    cmd: npm install express --save
